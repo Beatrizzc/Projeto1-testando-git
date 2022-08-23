@@ -1,4 +1,3 @@
 ola meu nome é beatriz e estou testando meu git
 
-
-oi, eu sou uma alteração 
+oi, eu sou uma alteração novamente, outra linha sendo testada
